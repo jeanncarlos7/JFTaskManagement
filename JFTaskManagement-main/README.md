@@ -1,6 +1,6 @@
 # JFTaskManagement
 
-API Rest do Porjeto JF Task Management - Controle de Gerenciamento de Tarefas 
+API Rest do Projeto JF Task Management - Controle de Gerenciamento de Tarefas 
 
 Feito por: Jean Carlos e Felipe Torlai
 
